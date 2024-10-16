@@ -24,10 +24,9 @@ How to Run the Code
 
 	1.	Clone the repository to your local machine:
 
-git clone https://github.com/your-username/first-year-java-projects.git
-cd first-year-java-projects
-
-
+``
+git clone https://github.com/danilo-quattrini/First-Programming-Codes.git
+``
 	2.	Open the project in your preferred Java IDE (like Eclipse or IntelliJ IDEA).
 	3.	Compile and run any of the Java files:
 	•	In your IDE, right-click the file and select “Run” or “Run as Java Application.”
